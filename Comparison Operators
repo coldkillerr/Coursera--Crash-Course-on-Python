@@ -1,4 +1,4 @@
-<h1>Comparison Operators </h1>
+Comparison Operators
 
 In Python, we can use comparison operators to compare values. When a comparison is made, Python returns a boolean result, or simply a True or False. 
 
