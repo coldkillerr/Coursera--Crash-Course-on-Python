@@ -7,7 +7,10 @@ The goal of the elevator pitch is to explain who you are, what you do and why th
 For example, this is my elevator pitch for this program:
 
 ```
-My name is Rob Clifton, and I’m a Program Manager at Google. I manage all of our hiring efforts for our junior IT support roles. I’ve interviewed hundreds of candidates, and I help train our interviewers on how to find the best talent in the industry. 
+My name is Rob Clifton, and I’m a Program Manager at Google. 
+I manage all of our hiring efforts for our junior IT support roles.
+I’ve interviewed hundreds of candidates,
+and I help train our interviewers on how to find the best talent in the industry. 
 
 ```
 
@@ -17,12 +20,16 @@ In an interviewing context, you want to be able to quickly define who you are, w
 
 For example, if you are a student, you’ll want to include what and where you are studying, and what you are looking to do once you have graduated.
 ```
-Hi! I’m Jamie, I’m in my senior year at Springfield University, studying Computer Science.  I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an IT Support Specialist after I graduate.
+Hi! I’m Jamie, I’m in my senior year at Springfield University, studying Computer Science. 
+I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills
+into practice by working as an IT Support Specialist after I graduate.
 ```
 
 If, instead, you already have a job and you are looking for a change, you will want to include what you do and what difference you are looking for.
 ```
-Hi! I’m Ellis, I’ve been working at X Company as an IT Support Specialist for the past two years. During those years, I’ve learned a lot about operating systems and networking and I’m looking to switch to a system administrator position, where I can focus on large scale deployments.
+Hi! I’m Ellis, I’ve been working at X Company as an IT Support Specialist for the past two years. 
+During those years, I’ve learned a lot about operating systems and networking and I’m looking to 
+switch to a system administrator position, where I can focus on large scale deployments.
 ```
 
 Remember that you want to keep it personal, you want to get the attention of the other person and let them know why they are interested in you. Even if you don’t meet them in an elevator, you want to be ready to give people you meet a quick impression of yourself.
