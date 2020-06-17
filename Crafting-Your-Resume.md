@@ -4,10 +4,10 @@ Your resume is usually the first impression that companies have of you, so you w
 
 What you want to include :
 
-    * Who you are: name, address, phone number, email
-    * Education history: where and what you’ve studied (or are studying)
-    * Employment history: where and in what roles you’ve worked (or are working)
-    * Relevant Skills
+    - Who you are: name, address, phone number, email
+    - Education history: where and what you’ve studied (or are studying)
+    - Employment history: where and in what roles you’ve worked (or are working)
+    - Relevant Skills
 
 When listing out your education, include colleges attended, certificates obtained, and any additional education programs you’ve completed. You can include a GPA or grade average for degrees if you wish. It is not necessary to include dates for your education section.
 
