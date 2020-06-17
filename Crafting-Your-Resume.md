@@ -1,4 +1,4 @@
-<h1> Crafting Your Resume <h1>
+<h1> Crafting Your Resume </h1>
 
 Your resume is usually the first impression that companies have of you, so you want to make sure that you include relevant information in it. If you’d like to build your resume from scratch, make sure to scroll down to the bottom of this page to download PDFs of resume templates to help you get started. Keep in mind, these are just sample resumes, and you should customize them as you see fit!
 
