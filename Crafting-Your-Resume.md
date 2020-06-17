@@ -38,3 +38,5 @@ Adding in personal projects can also be helpful, especially if you have somethin
 Just like a resume, list your skills, your experience and what you are looking for as your next step. Make sure that you include all the relevant background information that a recruiter looking at your profile might be interested in. Make sure you are descriptive, don’t assume the reader will have context.
 
 [Example 1 ]( https://d3c33hcgiwev3.cloudfront.net/Wq_49IADQrKv-PSAAyKySg_5b6029aa3cd94c36b6be61f775f78477_Resume-Example-1_Google-IT-Support.pdf?Expires=1592524800&Signature=Frqrzibb9fs-ST6OETKVBoPzlvtGkv-3-v3n4s-i6Ycz2qR6nZr8bXJEIAEXBhr6C~veE1g1llfMXVWCJ93e8B3-omfHYiPySmLXBqupQAo6XB9swkQoortmURe4PKkZ3E3NeYibEYjKWw49Oi63L0duL8WssvqteNaxMYYPMko_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A "Title").
+
+[Example 2](https://d3c33hcgiwev3.cloudfront.net/QkoWidoNQ2aKFonaDcNmyA_834dd92a40464a87a5c52c14a0944334_Resume-Example-2_Google-IT-Support.pdf?Expires=1592524800&Signature=hzQhAkh4WGQLoodnT~KSd9-SmRcxC8AJgEZ9KXq0L-CE2KWkUb1pXoTpdPyQLbq0gtoUnLERqKoe4u4Qslo3alSjD1-Zr8GsopLfxmuDrfA8nfVCoRgDHHhEhaIDCPgBX3y8cIbFMGKtpKCXN-P4OOhfxrt3Wli0rjaLe2DeSvk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A "Title")
