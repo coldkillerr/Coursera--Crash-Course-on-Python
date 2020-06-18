@@ -34,7 +34,7 @@ for variable in sequence:
 
 <h2>The range() function:</h2>
 
-range() generates a sequence of integer numbers. It can take one, two, or three parameters:
+`range()` generates a sequence of integer numbers. It can take one, two, or three parameters:
 * range(n): 0, 1, 2, ... n-1
 * range(x,y): x, x+1, x+2, ... y-1
 * range(p,q,r): p, p+r, p+2r, p+3r, ... q-1 (if it's a valid increment)
@@ -48,6 +48,6 @@ For loops are mostly used when there's a pre-defined sequence or range of number
 
 <h2>Break & Continue:</h2>
 
-You can interrupt both while and for loops using the break keyword. We normally do this to interrupt a cycle due to a separate condition.
+You can interrupt both while and for loops using the `break()` keyword. We normally do this to interrupt a cycle due to a separate condition.
 
 You can use the continue keyword to skip the current iteration and continue with the next one. This is typically used to jump ahead when some of the elements of the sequence aren’t relevant.
