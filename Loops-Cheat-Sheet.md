@@ -4,17 +4,23 @@
 Check out below for a run down of the syntax for while loops and for loops.
 
 <h2>While Loops</h2>
+
 A while loop executes the body of the loop while the condition remains True.
+
 Syntax:
+
 ```
 while condition:
     body
 ```
-Things to watch out for!
+
+Things to watch out for :
+
 Failure to initialize variables. Make sure all the variables used in the loop’s condition  are initialized before the loop.
 Unintended infinite loops. Make sure that the body of the loop modifies the variables used in the condition, so that the loop will eventually end for all possible values of the variables.
 
 Typical use:
+
 While loops are mostly used when there’s an unknown number of operations to be performed, and a condition needs to be checked at each iteration.
 
 <h2>For Loops</h2>
