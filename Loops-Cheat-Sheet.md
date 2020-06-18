@@ -19,11 +19,13 @@ While loops are mostly used when there’s an unknown number of operations to be
 
 <h2>For Loops</h2>
 A for loop iterates over a sequence of elements, executing the body of the loop for each element in the sequence.
+
 Syntax:
 ```
-for variable in sequence
+for variable in sequence:
     body
 ```
+
 <h2>The range() function:</h2>
 
 range() generates a sequence of integer numbers. It can take one, two, or three parameters:
