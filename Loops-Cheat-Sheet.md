@@ -13,9 +13,8 @@ while condition:
 ```
 
 Things to watch out for!
-
-    Failure to initialize variables. Make sure all the variables used in the loop’s condition  are initialized before the loop.
-    Unintended infinite loops. Make sure that the body of the loop modifies the variables used in the condition, so that the loop will eventually end for all possible values of the variables.
+Failure to initialize variables. Make sure all the variables used in the loop’s condition  are initialized before the loop.
+Unintended infinite loops. Make sure that the body of the loop modifies the variables used in the condition, so that the loop will eventually end for all possible values of the variables.
 
 Typical use:
 
@@ -35,19 +34,19 @@ The range() function:
 
 range() generates a sequence of integer numbers. It can take one, two, or three parameters:
 
-    range(n): 0, 1, 2, ... n-1
-    range(x,y): x, x+1, x+2, ... y-1
-    range(p,q,r): p, p+r, p+2r, p+3r, ... q-1 (if it's a valid increment)
+* range(n): 0, 1, 2, ... n-1
+* range(x,y): x, x+1, x+2, ... y-1
+* range(p,q,r): p, p+r, p+2r, p+3r, ... q-1 (if it's a valid increment)
 
 Common pitfalls:
 
-    Forgetting that the upper limit of a range() isn’t included.
-    Iterating over non-sequences. Integer numbers aren’t iterable. Strings are iterable letter by letter, but that might not be what you want.
+Forgetting that the upper limit of a range() isn’t included.
+Iterating over non-sequences. Integer numbers aren’t iterable. Strings are iterable letter by letter, but that might not be what you want.
 
 Typical use:
-
 For loops are mostly used when there's a pre-defined sequence or range of numbers to iterate.
-Break & Continue
+
+Break & Continue:
 
 You can interrupt both while and for loops using the break keyword. We normally do this to interrupt a cycle due to a separate condition.
 
