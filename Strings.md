@@ -8,6 +8,24 @@ The `index [-1]` would access the last character of the string, and the `index [
 You can also access a portion of a string, called a slice or a substring.
 This allows you to access multiple characters of a string. You can do this by creating a range, using a colon as a separator between the start and end of the range, like `[2:5]`. This range is similar to the `range()` function we saw previously. It includes the first number, but goes to one less than the last number. You can also easily reference the start or end of the string by leaving one value blank. For example `[:5]` would give us all characters from the `start to the fourth character` in the string. We can also use `[5:]` to get the characters from the `fourth character to the end` of the string.
 
+<h2>Slicing Examples</h2>
+
+``` python
+>>> Weather = "It's raining cats and dogs"
+>>> print(Weather[4:])
+ raining cats and dogs
+>>> print(Weather[-4:])
+dogs
+>>> print(Weather[:(-4)])
+It's raining cats and 
+>>> print(Weather[:(4)])
+It's
+
+
+```
+
+
+
 <h1>Basic String Methods</h1>
 
 In Python, strings are immutable. This means that they can't be modified. So if we wanted to fix a typo in a string, we can't simply modify the wrong character. We would have to create a new string with the typo corrected. We can also assign a new value to the variable holding our string.
