@@ -11,3 +11,21 @@ You can also check if a key is contained in a dictionary using the in keyword. J
 You can add a new key value pair to a dictionary by assigning a value to the key, like this: `animals["zebras"] = 2`. This creates the new key in the animal dictionary called `zebras`, and stores the value `2`. You can modify the value of an existing key by doing the same thing. So `animals["bears"] = 11` would change the value stored in the bears key `from 10 to 11`. 
 
 Lastly, you can remove elements from a dictionary by using the `del` keyword. By doing `del animals["lions"]` you would `remove the key value pair` from the animals dictionary.
+
+Example:
+```python
+
+>>> def count_letters(text):
+...     result={}
+...     for letters in text:
+...             if letters not in result:
+...                     result[letters]=0
+...             result[letters]+=1
+...     return result
+... 
+>>> count_letters('hello world')
+{'h': 1, 'e': 1, 'l': 3, 'o': 2, ' ': 1, 'w': 1, 'r': 1, 'd': 1}
+>>> count_letters('My name is Nishit Jain')
+{'M': 1, 'y': 1, ' ': 4, 'n': 2, 'a': 2, 'm': 1, 'e': 1, 'i': 4, 's': 2, 'N': 1, 'h': 1, 't': 1, 'J': 1}
+
+```
