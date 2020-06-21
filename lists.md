@@ -41,3 +41,9 @@ You can remove elements from the list using the `remove` method. This method tak
 You can also remove elements from a list using the pop method. This method differs from the remove method in that it takes an index as a parameter, and returns the element that was removed. This can be useful if you don't know what the value is, but you know where it’s located. This can also be useful when you need to access the data and also want to remove it from the list.
 
 Finally, you can change an element in a list by using indexing to overwrite the value stored at the specified index. For example, you can enter `list[0] = "Old data"` to overwrite the first element in a list with the new string `"Old data"`.
+
+<h1>Iterating Over Lists Using Enumerate</h1>
+
+When we covered for loops, we showed the example of iterating over a list. This lets you iterate over each element in the list, exposing the element to the for loop as a variable. But what if you want to access the elements in a list, along with the index of the element in question? You can do this using the `enumerate()` function. 
+
+<b>The enumerate() function</b> takes a list as a parameter and returns a tuple for each element in the list. The first value of the tuple is the index and the second value is the element itself.
