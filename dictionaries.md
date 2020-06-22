@@ -29,3 +29,39 @@ Example:
 {'M': 1, 'y': 1, ' ': 4, 'n': 2, 'a': 2, 'm': 1, 'e': 1, 'i': 4, 's': 2, 'N': 1, 'h': 1, 't': 1, 'J': 1}
 
 ```
+
+<h1>Iterating Over Dictionaries</h1>
+
+You can iterate over dictionaries using a for loop, just like with strings, lists, and tuples. This will iterate over the sequence of keys in the dictionary.
+
+
+```python
+>>> file_counts = {'jpg': 10 , 'csv' : 20 , 'py':23}
+
+```
+
+If you want to access the corresponding values associated with the keys, you could use the keys as indexes. Or you can use the items method on the dictionary, like `dictionary.items()`. This method returns a tuple for each element in the dictionary, where the first element in the tuple is the key and the second is the value.
+
+```python
+>>> file_counts.items()
+dict_items([('jpg', 10), ('csv', 20), ('py', 23)])
+>>> type(file_counts.items())
+<class 'dict_items'>
+
+```
+
+
+If you only wanted to access the keys in a dictionary, you could use the keys() method on the dictionary: `dictionary.keys()`.
+
+```python
+>>> file_counts.keys()
+dict_keys(['jpg', 'csv', 'py'])
+
+```
+If you only wanted the values, you could use the values() method: `dictionary.values()`.
+
+```python
+>>> file_counts.values()
+dict_values([10, 20, 23])
+
+```
